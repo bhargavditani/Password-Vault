@@ -14,7 +14,7 @@ Edit "main.py", add your firebase API's
 Run "main.py" Script.
 
 ## Glimpse
-<img src="resources/Glimpse1.JPG" width="618" height="300">
-<img src="resources/Glimpse2.JPG" width="618" height="300">
-<img src="resources/Glimpse3.JPG" width="618" height="300">
-<img src="resources/Glimpse4.JPG" width="618" height="300">
+<img src="resources/Glimpse1.PNG" width="618" height="300">
+<img src="resources/Glimpse2.PNG" width="618" height="300">
+<img src="resources/Glimpse3.PNG" width="618" height="300">
+<img src="resources/Glimpse4.PNG" width="618" height="300">
