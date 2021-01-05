@@ -17,4 +17,3 @@ Run "main.py" Script.
 <img src="resources/Glimpse1.PNG" width="618" height="300">
 <img src="resources/Glimpse2.PNG" width="618" height="300">
 <img src="resources/Glimpse3.PNG" width="618" height="300">
-<img src="resources/Glimpse4.PNG" width="618" height="300">
