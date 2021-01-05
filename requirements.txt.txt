@@ -1,0 +1,9 @@
+pyqt5
+pyqt5-tools
+reportlab
+firebase-admin
+pyrebase
+firebase
+gcloud
+google-cloud
+scrypt
